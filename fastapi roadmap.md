@@ -1,4 +1,4 @@
-# **FastAPI Beginner-Friendly Learning Roadmap**
+# **FastAPI Learning Roadmap**
 
 ---
 
